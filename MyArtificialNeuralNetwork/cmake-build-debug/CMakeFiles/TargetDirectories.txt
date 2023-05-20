@@ -1,0 +1,3 @@
+C:/Alin/Projects/C++/MyArtificialNeuralNetwork/MyArtificialNeuralNetwork/cmake-build-debug/CMakeFiles/MyArtificialNeuralNetwork.dir
+C:/Alin/Projects/C++/MyArtificialNeuralNetwork/MyArtificialNeuralNetwork/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Alin/Projects/C++/MyArtificialNeuralNetwork/MyArtificialNeuralNetwork/cmake-build-debug/CMakeFiles/rebuild_cache.dir
