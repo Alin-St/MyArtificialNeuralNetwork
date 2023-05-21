@@ -3,4 +3,4 @@ project(MyArtificialNeuralNetwork)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(MyArtificialNeuralNetwork main.cpp)
+add_executable(MyArtificialNeuralNetwork main.cpp imageToBitmap.h utility.h utility.cpp)
